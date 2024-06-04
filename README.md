@@ -16,7 +16,7 @@ El objetivo principal es desarrollar un modelo de aprendizaje automático capaz 
 * Angel Ruben Zuñiga Lovera –  u202111299
 
 # DESCRIPCION DEL DATASET
-el conjunto de datos de sarcasmo se extrajo de la página Kaggle. Este consiste en frases donde se busca determinar si hay sarcasmo o ironía en la oración. Las etiquetas asignadas son 0 para indicar que no hay sarcasmo presente en la frase y 1 para indicar que sí hay sarcasmo o ironía. Por otro lado, se divide en dos archivos .csv donde hay un conjunto de entrenamiento llamado “train.csv” con 19964 datos y otro de prueba llamado “test.csv” con 8576 datos.
+El conjunto de datos de sarcasmo se extrajo de la página Kaggle. Este consiste en frases donde se busca determinar si hay sarcasmo o ironía en la oración. Las etiquetas asignadas son 0 para indicar que no hay sarcasmo presente en la frase y 1 para indicar que sí hay sarcasmo o ironía. Por otro lado, se divide en dos archivos .csv donde hay un conjunto de entrenamiento llamado “train.csv” con 19964 datos y otro de prueba llamado “test.csv” con 8576 datos.
 
 # CONCLUSIONES:
 
