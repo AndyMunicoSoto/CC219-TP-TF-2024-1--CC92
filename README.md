@@ -1,7 +1,7 @@
 # **CC219-TP-TF-2024-1--CC92**
 # **APLICACIONES DE DATA SCIENCE**
 
-![logoUPC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCpTRf7X-YrxjfapBzhyoSpvipyeUG8Vh0Q&s)
+![logoUPC](https://trabajando.pe/wp-content/uploads/2021/06/UPC.png)
 
 ### **PROFESOR** : RICHARD FERNANDO FERNANDEZ VASQUEZ
 
